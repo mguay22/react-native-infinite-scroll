@@ -1,4 +1,4 @@
 # react-native-infinite-scroll
 
-_Installation_
+# Installation
 Be sure to run `yarn && cd ios && pod install`
